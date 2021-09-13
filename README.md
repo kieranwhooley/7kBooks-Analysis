@@ -13,4 +13,4 @@ The analysis carried out includes the following:
 • Oldest book by published date <br/>
 • Statistics related to the number of reviews <br/>
 
-There are also visualizations of the results using ##matplotlib## and the program itself was tested using ##pytest##. The test file is also included.
+There are also visualizations of the results using **matplotlib** and the program itself was tested using **pytest**. The test file is also included.
