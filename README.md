@@ -6,11 +6,11 @@ https://www.kaggle.com/dylanjcastillo/7k-books-with-metadata
 
 The analysis carried out includes the following:
 
-• Mean, mode, median and standard deviation of the page numbers, average rating and number of ratings
-• Longest and shortest books
-• Top 10 longest books
-• Total number of pages
-• Oldest book by published date
-• Statistics related to the number of reviews
+• Mean, mode, median and standard deviation of the page numbers, average rating and number of ratings <br/>
+• Longest and shortest books <br/>
+• Top 10 longest books <br/>
+• Total number of pages <br/>
+• Oldest book by published date <br/>
+• Statistics related to the number of reviews <br/>
 
 There are also visualizations of the results using ##matplotlib## and the program itself was tested using ##pytest##. The test file is also included.
